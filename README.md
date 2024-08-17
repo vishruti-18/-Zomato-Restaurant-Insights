@@ -14,7 +14,8 @@ The dataset includes information about various restaurants, such as:
 
 ## Key Visualizations
 
-![Screenshot](images/Screenshot(745).png)
+
+![Distribution of Approximate Cost by Ratings](images/cost_vs_ratings.png)
 
 *Figure 1: Distribution of Approximate Cost by Ratings*
 
