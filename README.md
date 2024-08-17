@@ -14,13 +14,13 @@ The dataset includes information about various restaurants, such as:
 
 ## Key Visualizations
 
-![Distribution of Approximate Cost by Ratings](images/cost_vs_ratings.png)
+![Distribution of Approximate Cost by Ratings](images/Screeshot(745).png)
 *Figure 1: Distribution of Approximate Cost by Ratings*
 
-![Average Rating by Table Booking Availability](images/ratings_by_table_booking.png)
+![Average Rating by Table Booking Availability](images/Screeshot(746).png)
 *Figure 2: Average Rating by Table Booking Availability*
 
-![Average Rating by Restaurant Type](images/ratings_by_type.png)
+![Average Rating by Restaurant Type](images/Screeshot(747).png)
 *Figure 3: Average Rating by Restaurant Type*
 
 ## Key Findings and Conclusions
